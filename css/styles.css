@@ -1,0 +1,121 @@
+body {
+    background: rgba(255, 0, 0, 0.404);
+    margin: 0 auto;
+}
+
+header {
+    background: url(https://initiate.alphacoders.com/images/814/cropped-1920-1080-814691.png?5112);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Josefin Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font-size: 72px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h2 {
+    font-size: 48px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+a {
+    font-size: 36px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+img.tiktok {
+    height: 72px;
+}
+
+img.insta {
+    height: 72px;
+}
+
+img.discord {
+    height: 82px;
+}
+
+img.facebook {
+    height: 72px;
+}
+
+img.infos {
+    height: 82px;
+}
+
+img.logo {
+    height: 128px;
+}
+
+h1.title {
+    color: darkgreen;
+    font-size: 72px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h2.title {
+    color: darkblue;
+    font-size: 48px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+p.sign {
+    height: 16px;
+    margin: 15px;
+}
+
+img.katsuki {
+    height: 96px;
+}
+
+img.deku {
+    height: 96px;
+}
+
+img.ochako {
+    height: 96px;
+}
+
+img.shoto {
+    height: 96px;
+}
+
+img.jiro {
+    height: 96px;
+}
+
+img.kiri {
+    height: 96px;
+}
+
+img.denki {
+    height: 96px;
+}
+
+img.dabi {
+    height: 96px;
+}
+
+img.toga {
+    height: 96px;
+}
+
+img.ojiro {
+    height: 96px;
+}
+
+h1.maintenance {
+    font-size: 96px;
+    color: darkred;
+    font-family: 'Josefin Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
